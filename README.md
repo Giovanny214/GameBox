@@ -1,5 +1,5 @@
 # GameBox
-![DeployedWebsite](https://giovanny214.github.io/GameBox/)
+- ![Deployed website link](https://giovanny214.github.io/GameBox/)
 
 ## Description
 
